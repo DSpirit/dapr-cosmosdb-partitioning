@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7iKd3it4+SDYe+UrGTjbgMYhYPZQjnYFQPW4f4Uqyc=",
+  "Source": "DaprPartitioning",
+  "BasePath": "_content/DaprPartitioning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
